@@ -1,0 +1,21 @@
+docs/zh/OverView/SignYourName.md
+  s_89b50d22e95fb1::t_f12500c244b1bf 35
+docs/en/OverView/SignYourName.md
+  s_89b50d22e95fb1::t_41293636eac626 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "e5eca12ab62c79fba5da91fb348f768d4522019a",
+  "prompts": {},
+  "sessions": {
+    "s_89b50d22e95fb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfff6595-2a90-4022-b255-d7e8749e8bbf",
+        "model": "arn:aws:bedrock:us-west-2:671660153913:application-inference-profile/kh3mlhvjeex4"
+      },
+      "human_author": "ding.jian <ding.jian@trip.com>"
+    }
+  }
+}
